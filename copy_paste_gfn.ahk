@@ -1,0 +1,2 @@
+^v::
+send %clipboard%
